@@ -1,3 +1,3 @@
 Depricated libraries
 
-This is a Node.js repo used to show case deprecated library feature.
+This is a node.js repo used to show case deprecated library feature.
